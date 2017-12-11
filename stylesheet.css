@@ -1,0 +1,18 @@
+body {
+    background-color:azure;
+    font-family:Times,sans-serif;
+}
+
+h2 {
+    color:crimson;
+}
+
+ul {
+    background:white;   
+    width: 300px;
+    border: 1px solid black;
+}
+
+img {
+    border:1px solid black;
+}
